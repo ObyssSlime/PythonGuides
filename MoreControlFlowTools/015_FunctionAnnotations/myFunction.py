@@ -5,3 +5,5 @@ def f(ham: str, eggs: str = 'eggs') -> str:
     print("Arguments:", ham, eggs)
 
     return ham + ' and ' + eggs
+
+
