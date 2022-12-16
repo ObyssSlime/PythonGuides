@@ -2,7 +2,7 @@
 
 Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.
 
-![App Screenshot](https://github.com/ObyssSlime/github-image/blob/main/2022-12-16_19-39.png?raw=true)
+![App Screenshot](https://github.com/ObyssSlime/GithubImages/blob/main/2022-12-16_19-39.png?raw=true)
 
 ## Installation
 
